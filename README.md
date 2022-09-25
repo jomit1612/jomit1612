@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**jomit1612/jomit1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jomit Thomas and I am a Junior Software Developer
 
-Here are some ideas to get you started:
+📍Based in Manchester
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools 
+Visual Studio Code
+Javascript
+HTML
+CSS
+PosgreSQL
+Express
+React
+Node
+Git
+Jest
+Trello
+Github
+
+![vv](https://user-images.githubusercontent.com/102469684/192157233-1dcee9f9-65b4-4360-b19e-6307a924e7f0.svg)
